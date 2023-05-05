@@ -5,9 +5,9 @@
 - 🔭 I’m currently working on Android Development projects to develop my skills. 
 - 🌱 I’m currently learning Kotlin 
 - 👯 I’m looking to collaborate on Android App Development Projects 
-- 📫 How to reach me: serhat.al@darussafaka.net 
+- 📫 How to reach me: serhataldev@gmail.com
 
-I graduated from Android Developer with Java Bootcamp organized by Techcareer. I am also taking courses about Android Development with Kotlin to become proficient in both Java and Kotlin as an Android Developer. I am eager to improve my skills in the field of android application development and gain experience in the professional field as Android Developer.  
+Dedicated to continuously developing, implementing and adopting new technologies to maximize development efficiency and produce innovative applications. Staying up-to-date with the latest trends and technologies in android development and regularly attending conferences and meetups to expand knowledge and skills.  
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serhat-al-403317102/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@serhat.al) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18862884)
