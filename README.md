@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in *Android Development*
 - 🔭 I’m currently working on Android Development projects to develop my skills. 
-- 🌱 I’m currently learning Kotlin 
+- 🌱 I’m currently developing skills in Jetpack Compose 
 - 👯 I’m looking to collaborate on Android App Development Projects 
 - 📫 How to reach me: serhataldev@gmail.com
 
